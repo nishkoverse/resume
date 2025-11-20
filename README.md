@@ -1,4 +1,4 @@
-<div style="font-family: Arial, Helvetica, sans-serif; max-width: 900px; margin: 0 auto; line-height: 1.4; font-size: 14px;">
+
 
   <!-- Header -->
   <h1 style="text-align: center; font-size: 32px; margin: 0 0 6px 0; letter-spacing: 2px;">
@@ -143,4 +143,3 @@
     </li>
   </ul>
 
-</div>
