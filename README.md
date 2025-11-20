@@ -1,10 +1,10 @@
 
 
   <!-- Header -->
-  <h1 style="text-align: center; font-size: 32px; margin: 0 0 6px 0; letter-spacing: 2px;">
+  <h1 style="text-align: center;">
     NISHANT KANT OJHA
   </h1>
-  <p style="text-align: center; margin: 0 0 24px 0; font-size: 13px;">
+  <p style="text-align: center;">
     <a href="mailto:nishantkantojha@outlook.com">nishantkantojha@outlook.com</a> |
     +1 437 223-2314 | Toronto, Ontario
   </p>
